@@ -20,7 +20,7 @@ var numberSixMod = parseInt(numberSix);
     /* Transformando em array */
 var listNumber = [numberOneMod, numberTwoMod, numberThreeMod, numberFourMod, numberFiveMod, numberSixMod];
 
-    /* Função para trocade pares*/
+    /* Função para troca de pares*/
 function substituiPares(numbers) {
     for(let i = 0; i < numbers.length; i++) {
         if(numbers[i] === 0) {
