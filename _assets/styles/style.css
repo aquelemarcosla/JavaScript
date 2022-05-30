@@ -2,3 +2,27 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    font-family: monospace;
+    background-color: rgb(83, 0, 83);
+}
+
+.unic-container {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 95vh;
+    color: rgb(21, 21, 21);
+}
+
+.unic-container img {
+    margin-top: 150px;
+    width: 250px;
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
