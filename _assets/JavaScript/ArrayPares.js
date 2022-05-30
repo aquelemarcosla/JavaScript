@@ -1,4 +1,4 @@
-/* Coletando numeros */
+/* Coletando numeros */ 
 
     /* Coleta */
 let numberOne = prompt("1 -Digite um numero: ");
@@ -15,6 +15,7 @@ var numberThreeMod = parseInt(numberThree);
 var numberFourMod = parseInt(numberFour);
 var numberFiveMod = parseInt(numberFive);
 var numberSixMod = parseInt(numberSix);
+
 
     /* Transformando em array */
 var listNumber = [numberOneMod, numberTwoMod, numberThreeMod, numberFourMod, numberFiveMod, numberSixMod];
