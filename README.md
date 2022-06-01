@@ -1,2 +1,3 @@
 # JavaScript
- JavaScript practice repository.
+
+### Repositorio para pratica de JavaScript, apenas arquivos sem grandes contextos.
