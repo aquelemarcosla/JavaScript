@@ -9,12 +9,12 @@ let numberFive = prompt("5 - Digite outro numero: ");
 let numberSix = prompt("6 - Digite outro numero: ");
 
     /* Modificação para number */
-var numberOneMod = parseInt(numberOne);
-var numberTwoMod = parseInt(numberTwo);
-var numberThreeMod = parseInt(numberThree);
-var numberFourMod = parseInt(numberFour);
-var numberFiveMod = parseInt(numberFive);
-var numberSixMod = parseInt(numberSix);
+let numberOneMod = parseInt(numberOne);
+let numberTwoMod = parseInt(numberTwo);
+let numberThreeMod = parseInt(numberThree);
+let numberFourMod = parseInt(numberFour);
+let numberFiveMod = parseInt(numberFive);
+let numberSixMod = parseInt(numberSix);
 
 
     /* Transformando em array */
